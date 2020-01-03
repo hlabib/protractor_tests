@@ -17,7 +17,7 @@ homepage.clickSubmit();
   //  let result =  element(by.className('ng-binding'))
   //   expect(result.getText()).toEqual('5');
 homepage.verifyTest('7');
-    browser.sleep(2000)
+    browser.sleep(3000)
 
   });
 });
